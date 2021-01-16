@@ -1,0 +1,1 @@
+To fetch some names from stock reports in order to update the stock pool in time.
